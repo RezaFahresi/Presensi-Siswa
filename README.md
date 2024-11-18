@@ -1,16 +1,10 @@
-# projectbaru
+# Hasil Pratikum Presensi Siswa
+**Reza Fahresi 362358302144**
 
-A new Flutter project.
+**Tampilan Screen Siswa**
 
-## Getting Started
+<img width="211" alt="image" src="https://github.com/user-attachments/assets/9389abb0-3954-46c4-b45a-5e6ce75cedd9">
 
-This project is a starting point for a Flutter application.
+**Tampilan Riwayat Siswa**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/eda0084e-e052-4e26-abd3-9923e5fae3e0">
